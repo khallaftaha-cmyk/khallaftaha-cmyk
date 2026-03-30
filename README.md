@@ -95,8 +95,8 @@ class Taher:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=khallaftaha-cmyk&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B6B&icon_color=FFD700&text_color=ffffff" height="160"/](https://github-readme-stats.vercel.app/api?username=khallaftaha-cmyk&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800)>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khallaftaha-cmyk&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B6B&text_color=ffffff" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=khallaftaha-cmyk&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B6B&icon_color=FFD700&text_color=ffffff&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khallaftaha-cmyk&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B6B&text_color=ffffff&cache_seconds=1800" height="160"/>
 </p>
 
 <p align="center">
@@ -105,18 +105,10 @@ class Taher:
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khallaftaha-cmyk/khallaftaha-cmyk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=khallaftaha-cmyk&theme=radical&no-frame=true&row=1&column=7](https://github-profile-trophy.vercel.app/?username=khallaftaha-cmyk&theme=radical&no-frame=true&margin-w=4)" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khallaftaha-cmyk&theme=redical&hide_border=true&bg_color=0d1117" />
 </p>
 
 ---
