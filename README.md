@@ -95,7 +95,7 @@ class Taher:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khallaftaha-cmyk&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B6B&icon_color=FFD700&text_color=ffffff" height="160"/>
+  <img src="[https://github-readme-stats.vercel.app/api?username=khallaftaha-cmyk&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B6B&icon_color=FFD700&text_color=ffffff" height="160"/](https://github-readme-stats.vercel.app/api?username=khallaftaha-cmyk&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800)>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khallaftaha-cmyk&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B6B&text_color=ffffff" height="160"/>
 </p>
 
@@ -111,42 +111,12 @@ class Taher:
   <img src="https://raw.githubusercontent.com/khallaftaha-cmyk/khallaftaha-cmyk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-<details>
-<summary>⚙️ Setup the snake animation</summary>
-
-Create `.github/workflows/snake.yml` in your profile repo:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Go to **Actions** tab → run it manually once. Updates daily after that! 🐍
-</details>
-
 ---
 
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khallaftaha-cmyk&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="[https://github-profile-trophy.vercel.app/?username=khallaftaha-cmyk&theme=radical&no-frame=true&row=1&column=7](https://github-profile-trophy.vercel.app/?username=khallaftaha-cmyk&theme=radical&no-frame=true&margin-w=4)" />
 </p>
 
 ---
