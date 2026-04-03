@@ -51,6 +51,8 @@ class Taher:
   <a href="#"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="48" title="Arduino / IoT"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" title="Git"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" title="Postman"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" title="C"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=c++&theme=dark" width="48" title="C++"/></a>
 </p>
 
 ---
